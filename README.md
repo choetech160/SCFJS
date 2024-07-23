@@ -2,6 +2,9 @@
 
 > **Note:** This is a work in progress project.
 
+> **Project brief: **
+> Software to run on  an embedded linux device allowing ones to exchange information is anonymously as possible in untrusted/heavily monitored environments
+
 ## Project Names
 
 - **WHISPRSCOOP**
